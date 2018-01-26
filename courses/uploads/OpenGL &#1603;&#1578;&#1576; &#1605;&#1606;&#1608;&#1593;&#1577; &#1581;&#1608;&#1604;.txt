@@ -1,0 +1,44 @@
+OpenGL Programming Guide: The Official Guide to Learning OpenGL, Version 1.4, Fourth 
+Õ„· „‰ Â‰« :
+
+
+„‰ Â‰«:
+http://www.opengl.org/documentation/red_book_1.0/
+
+Sample Programs for the OpenGL "Redbook" v1.1 
+http://www.opengl.org/resources/code/basics/redbook/index.html
+
+----
+The OpenGL "Redbook" v1.1 HTML format 
+http://www.rush3d.com/reference/opengl-redbook-1.1/
+
+---------------
+The OpenGL "Redbook" v1.1 PDF format 
+http://www.gamedev.net/reference/count.asp?LinkID=993
+
+
+-----------------------
+OpenGL Shading Language
+„‰ Â‰«:
+
+
+
+
+http://oss.sgi.com/projects/ogl-sample/registry/ARB/GLSLangSpec.Full.1.10.59.pdf
+
+
+----------------------------
+„‰ Â‰« „ﬂ »… ﬂ«„·…
+http://www.opengl.org/documentation/spec.html
+
+
+
+    
+-------------------
+„⁄  ÕÌ«  „‰ œÌ«  ﬂ «» «·⁄—»
+ﬂ· „«  Õ·„ »Â „‰ »—«„Ã ‰Ê›—Â ·ﬂ
+
+http://vb.arabsbook.com
+
+--------------------------
+
